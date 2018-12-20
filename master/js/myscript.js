@@ -1,3 +1,3 @@
 window.onload = function() {
-  console.log("sample");
-}
+  console.log("Hello, World!");
+};
